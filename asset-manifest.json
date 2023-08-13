@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reunion_Rent_Property/static/css/main.d9f4264d.css",
+    "main.js": "/Reunion_Rent_Property/static/js/main.11aa6200.js",
+    "static/media/home3.jpeg": "/Reunion_Rent_Property/static/media/home3.c614f639a849c8971e21.jpeg",
+    "static/media/home6.jpeg": "/Reunion_Rent_Property/static/media/home6.3cb66d7ca3e005e8e030.jpeg",
+    "static/media/home8.webp": "/Reunion_Rent_Property/static/media/home8.a08f01d832f35c11f779.webp",
+    "static/media/home9.jpeg": "/Reunion_Rent_Property/static/media/home9.d84b8a760e42718e3356.jpeg",
+    "static/media/home4.jpeg": "/Reunion_Rent_Property/static/media/home4.9a81a7a0817a1f826af0.jpeg",
+    "static/media/home1.jpeg": "/Reunion_Rent_Property/static/media/home1.7285455201c22ba1be8d.jpeg",
+    "static/media/home2.jpeg": "/Reunion_Rent_Property/static/media/home2.93d026f0e2745e3f7ee0.jpeg",
+    "static/media/home7.jpeg": "/Reunion_Rent_Property/static/media/home7.9236d9e4b6e872d1d191.jpeg",
+    "static/media/home5.jpeg": "/Reunion_Rent_Property/static/media/home5.42fef0a9e33e4b7c1f86.jpeg",
+    "index.html": "/Reunion_Rent_Property/index.html",
+    "main.d9f4264d.css.map": "/Reunion_Rent_Property/static/css/main.d9f4264d.css.map",
+    "main.11aa6200.js.map": "/Reunion_Rent_Property/static/js/main.11aa6200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f4264d.css",
+    "static/js/main.11aa6200.js"
+  ]
+}
